@@ -2,8 +2,6 @@
 <!--
 **09KeshavMittal/09KeshavMittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Gopal Krushna</h1>
-
 Welcome to my GitHub profile! I am a Pre-Final-year Computer Science Engineering student with a passion for full stack development and a keen interest in machine learning and deep learning.
 
 ### 🔭 I’m currently working on:
@@ -39,10 +37,10 @@ I enjoy solving complex problems and have a strong foundation in Data Structures
 - LinkedIn: [Keshav Mittal](https://www.linkedin.com/in/keshav-mittall/)
 
 
-
+<!--
 ### ⚡ Fun fact:
 - I love solving puzzles and playing strategy games in my free time.
-
+-->
 Feel free to check out my repositories and contribute or collaborate on any projects you find interesting. Let's connect and grow together in this exciting tech journey!
 <!--
 ![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=09KeshavMittal&show_icons=true&theme=radical)
