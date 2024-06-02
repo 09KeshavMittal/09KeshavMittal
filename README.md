@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a Pre-Final-year Computer Science Engineering
 I enjoy solving complex problems and have a strong foundation in Data Structures and Algorithms (DSA). I regularly participate in coding challenges on platforms like LeetCode, HackerRank, and Codeforces to hone my problem-solving skills. I believe that a deep understanding of DSA is crucial for efficient coding and software development.
 
 ### 📫 How to reach me:
-- Email: [your.email@example.com](mailto:keshavmittal10767@gmail.com)
+- Email: [keshavmittal10767@gmail.com](mailto:keshavmittal10767@gmail.com)
 - LinkedIn: [Keshav Mittal](https://www.linkedin.com/in/keshav-mittall/)
 
 
